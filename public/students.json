@@ -508,5 +508,13 @@
         "favoriteLanguage": "Ruby"
     }
   },
-  
+  {
+    "name": "Nuroyan Muhammad Senoadji",
+    "nim": "2501977506",
+    "studyProgram": "Computer Science",
+    "additionalData": {
+        "favoriteLanguage": "JavaScript, HTML, CSS, PHP, Python",
+        "frameworks": "React, Next.js, Laravel, Bootstrap"
+    }
+  }
 ]
